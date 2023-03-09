@@ -1,7 +1,3 @@
-// 221307102 Kerem Işık
-//Not! Öğrenci eklerken bölüm yazarken boşluk karakteri kullanmayınız Ex: BilişimsistemleriMuhendisliği or Bilişim_Sistemleri_Mühendisliği (çünkü scanf okumayı kesiyor)
-//Sortingsiz listeler
-//students.dat dosyası olmasada kişi eklendiğinde program oluşturur
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
